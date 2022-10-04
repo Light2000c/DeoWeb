@@ -52,6 +52,8 @@ export class ContactThreeComponent implements OnInit {
       } else {
         this.utilities.alert('error', 'Failed!', 'Something went wrong, please try again later.');
       }
+    },(error)=>{
+      this.utilities.alert('error', 'Failed!', 'Something went wrong, please try again later.');
     });
   }
 
