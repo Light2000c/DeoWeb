@@ -5,7 +5,7 @@
 :: Template Author URI: hridoy1272@gmail.com
 :: Version: 1.0.0
 :: Created: 12 Sep 2020
-************************************************************ 
+************************************************************
 *
 *
 ******* :: INDEX OF CSS :: *******
@@ -717,7 +717,7 @@ img {
 
 /*BACKGROUND IMAGES*/
 .welcome-area {
-    background: rgba(0, 0, 0, 0) url("../img/welcome_bg.jpg") no-repeat fixed center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/bg2.jpg") no-repeat fixed center center / cover;
 }
 
 .homepage-2 .welcome-area {
@@ -737,7 +737,7 @@ img {
 }
 
 .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("../img/inner_bg.jpg") no-repeat fixed center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/abt1.jpg") no-repeat fixed center center / cover;
 }
 
 .blog .breadcrumb-area {
